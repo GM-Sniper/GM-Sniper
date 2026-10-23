@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Ramy;Computer+Engineer+%40+AUC;Zero-trust+security+for+AI+agents;From+RISC-V+on+FPGAs+to+LLM+agents" alt="Hi, I'm Ramy" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Ramy;Computer+Engineer+%40+AUC;Zero-trust+security+for+AI+agents;From+LLM+Agents+to+Networks+%26+Security" alt="Hi, I'm Ramy" />
 
-I build **AI systems** and then work out how to **keep them from going rogue**.
+I build **AI systems** and then work out their **Network and Security** rules.
 
 <a href="https://www.linkedin.com/in/ramy-shehata-980137290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ramyshehata65@aucegypt.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -25,8 +25,8 @@ A deterministic **Cedar** policy engine sits behind **mTLS sidecars** and decide
 | [**EagleEye**](https://github.com/GM-Sniper/EagleEye) | AI demand forecasting and inventory management. Deloitte × AUC Hackathon finalist | Python · ML · React |
 | [**Book Acquisitions Automation**](https://github.com/GM-Sniper/Book_Acquisitions_Automation) | Gemini Vision cataloging app for AUC Libraries, **~50% faster** cataloging | Python · PyQt5 · Gemini |
 | [**RISC-V CPU**](https://github.com/GM-Sniper/RISCV32I-CPU) | RV32I processor running on a Xilinx Artix-7 FPGA | Verilog |
-| [**RISC-V Simulator**](https://github.com/GM-Sniper/RISC-V-Cpp-Simulator) | Lightweight simulator that runs RISC-V assembly | C++ |
 | [**Linux Process Manager**](https://github.com/GM-Sniper/Linux_Process_Manager) | Process manager for Linux | Rust |
+| [**Secure Campus Network**](https://github.com/GM-Sniper/Campus-Network) | Secure multi-campus university network built in Cisco Packet Tracer | Packet Tracer |
 | [**Solar Tracker**](https://github.com/GM-Sniper/RTC-Based-Solar-Tracking) | RTC + GPS sun-position tracking with servo control | C · STM32 · ESP32 |
 
 ### 🧭 Along the way
@@ -35,7 +35,7 @@ A deterministic **Cedar** policy engine sits behind **mTLS sidecars** and decide
 - 🛡️ **Cybersecurity Intern @ Security Meter**: SOC monitoring (QRadar, Elastic) and pentest support
 - 🏴 **1st place, CSEA CTF**: out of 20 teams, across forensics, crypto, web and reverse engineering
 - 📡 Reproduced the **KRACK attack** on WPA2 with a Raspberry Pi access point
-- 🎓 Computer Engineering @ **AUC** on a full scholarship · exchange semester @ **Edinburgh**
+- 🎓 Computer Engineering @ **AUC** · exchange semester @ **Edinburgh**
 
 ### 🛠️ Toolbox
 
